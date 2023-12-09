@@ -1,1 +1,1 @@
-bot: python -m xXstremHome
+bot: python-m xXstremHome
